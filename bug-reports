@@ -73,6 +73,54 @@ Severity:
 
 Low (UI/Visual only, but affects user perception of design & product quality)
 
+BUG CASE #4
+
+Bug Title: “Back to Products” button placement not intuitive on Product Details page (Desktop)
+
+Website Tested: (SWAG LABS) HERE LINK - https://www.saucedemo.com/inventory.html
+
+Environment: Desktop View - Google Chrome
+
+Steps to Reproduce:
+
+Open the main product listing page on desktop
+
+Click any product to open the product details page
+
+Observe the position of the “Back to products” button
+
+Expected Result:
+Back to Products button should be placed more clearly / commonly visible location so the user can easily see navigation back to main list.
+
+Actual Result:
+Button is positioned far left and not visually obvious, which makes navigation less user-friendly.
+
+Severity: Low (UI navigation usability)
+
+Bug #5 (Desktop View)
+
+Bug Title: No “Remove All” option in Cart (requires manual removal one-by-one)
+
+Website Tested: (SWAG LABS) HERE LINK - https://www.saucedemo.com/inventory.html
+
+Environment: Desktop View – Google Chrome
+
+Steps to Reproduce:
+
+Add multiple products to the cart
+
+Go to the Cart page
+
+Try to remove all items at once
+
+Expected Result:
+There should be a “Remove All” / “Clear Cart” option so the user can quickly remove all products in one action.
+
+Actual Result:
+User must remove each product manually one-by-one by clicking individual “Remove” buttons.
+
+Severity: Low (Feature / UX improvement)
+
 
 
 
