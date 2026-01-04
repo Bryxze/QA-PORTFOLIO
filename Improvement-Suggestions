@@ -1,1 +1,147 @@
+#1 - Title: Improve visibility of left/right menu navigation buttons
+
+Website Tested:
+https://www.jollibee.com.ph/menu
+
+Type:
+UI/UX Improvement / Enhancement
+
+Current Behavior:
+The left (<) and right (>) navigation buttons on the menu section are functional but have a low-visibility color that blends into the background.
+
+Suggestion / Improvement:
+Change the color of the left and right navigation buttons to red to match Jollibee’s brand theme and improve visibility.
+
+Expected Improvement:
+
+Navigation buttons are easier to see
+
+Better user experience, especially for first-time users
+
+Improved visual consistency with the website’s red theme
+
+Environment:
+
+Device: Desktop 
+
+#2 - Title: Add slide (drag/swipe) functionality to menu navigation
+
+Website Tested:
+https://www.jollibee.com.ph/menu
+
+Type:
+UI/UX Improvement / Enhancement
+
+Current Behavior:
+The menu section can only be navigated using the left (<) and right (>) buttons. There is no slide (drag or swipe) functionality available for users.
+
+Suggestion / Improvement:
+Add slide functionality that allows users to drag or swipe left and right to navigate through the menu items.
+
+Expected Improvement:
+
+Easier and more intuitive navigation
+
+Improved user experience for desktop and touch-enabled devices
+
+Faster browsing of menu items
+
+Environment:
+
+Device: Desktop
+
+#3 - Title: Add slide (drag/swipe) functionality to menu navigation
+
+Website Tested:
+https://www.jollibee.com.ph/menu
+
+Type:
+UI/UX Improvement / Enhancement
+
+Current Behavior:
+The menu section can only be navigated using the left (<) and right (>) buttons. There is no slide (drag or swipe) functionality available for users.
+
+Suggestion / Improvement:
+Add slide functionality that allows users to drag or swipe left and right to navigate through the menu items.
+
+Expected Improvement:
+
+Easier and more intuitive navigation
+
+Improved user experience for desktop and touch-enabled devices
+
+Faster browsing of menu items
+
+Environment:
+
+Device: Desktop
+
+#4 - Title: Header images appear low resolution
+
+Website Tested:
+https://giftaway.ph/jollibee#/
+
+Type:
+UI/UX Improvement / Enhancement
+
+Current Behavior:
+The images displayed in the header section appear low resolution and look blurry when viewed on desktop.
+
+Suggestion / Improvement:
+Use higher-quality images to ensure the header visuals appear clear and sharp on desktop screens.
+
+Expected Improvement:
+
+Clearer and sharper header images
+
+Improved visual quality
+
+More professional website appearance
+
+Environment:
+
+Device: Desktop
+
+Title: Missing return (back) button to previous page
+
+Website Tested:
+https://giftaway.ph/jollibee#/
+
+Type:
+UI/UX Improvement / Enhancement
+
+Current Behavior:
+There is no visible return or back button that allows users to navigate back to the previous page.
+
+Suggestion / Improvement:
+Add a return (back) button that takes users back to the previous page.
+
+Expected Improvement:
+
+Easier navigation between pages
+
+Reduced user confusion
+
+Improved overall user experience
+
+Environment:
+
+Device: Desktop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
